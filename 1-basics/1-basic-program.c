@@ -6,7 +6,8 @@
  */
 
 #include <stdio.h>
-// #include <stdio.h> - Standard Input Output Header File
+// #include - Preprocessor Directive
+// <stdio.h> - Standard Input Output Header File
 // Header file library - helps us to work with input/output functions
 
 int main()
