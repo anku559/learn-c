@@ -1,7 +1,13 @@
+/**
+ * @author Ankit Singh Chondawat
+ * @link https://github.com/anku559
+ * @date 30th May 2023
+ * @details This file shows basic operations using arithmetic operator.
+ */
+
 #include <stdio.h>
 
-int main()
-{
+int main() {
   int num1, num2, num3;
   printf("Enter Number 1: \n");
   scanf("%d", &num1);
