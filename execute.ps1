@@ -1,0 +1,1 @@
+gcc .\playgroud.c -o .\output.exe; .\output.exe

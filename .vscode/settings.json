@@ -2,6 +2,7 @@
   "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 2, ColumnLimit: 0}",
   "files.associations": {
     "stdio.h": "c",
-    "crtdefs.h": "c"
+    "crtdefs.h": "c",
+    "custom-header.h": "c"
   }
 }
